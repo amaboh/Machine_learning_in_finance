@@ -4,10 +4,12 @@ __pycache__/
 *$py.class
 
 #files
-.csv
+*.csv
 /Credit score/train.csv
 /Credit score/test.csv
-
+*.csv.zip
+*zip
+/
 # C extensions
 *.so
 
